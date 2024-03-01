@@ -10,4 +10,4 @@ conn.connect((err)=>{
     console.log("koneksi bersasil");
 })
 
-module.exports(conn)
+module.exports= conn
